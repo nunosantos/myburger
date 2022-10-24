@@ -1,0 +1,12 @@
+C:\test\Utilities\BurgerBackend.Common\bin\Debug\net6.0\BurgerBackend.Common.deps.json
+C:\test\Utilities\BurgerBackend.Common\bin\Debug\net6.0\BurgerBackend.Common.dll
+C:\test\Utilities\BurgerBackend.Common\bin\Debug\net6.0\BurgerBackend.Common.pdb
+C:\test\Utilities\BurgerBackend.Common\obj\Debug\net6.0\BurgerBackend.Common.csproj.AssemblyReference.cache
+C:\test\Utilities\BurgerBackend.Common\obj\Debug\net6.0\BurgerBackend.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Utilities\BurgerBackend.Common\obj\Debug\net6.0\BurgerBackend.Common.AssemblyInfoInputs.cache
+C:\test\Utilities\BurgerBackend.Common\obj\Debug\net6.0\BurgerBackend.Common.AssemblyInfo.cs
+C:\test\Utilities\BurgerBackend.Common\obj\Debug\net6.0\BurgerBackend.Common.csproj.CoreCompileInputs.cache
+C:\test\Utilities\BurgerBackend.Common\obj\Debug\net6.0\BurgerBackend.Common.dll
+C:\test\Utilities\BurgerBackend.Common\obj\Debug\net6.0\refint\BurgerBackend.Common.dll
+C:\test\Utilities\BurgerBackend.Common\obj\Debug\net6.0\BurgerBackend.Common.pdb
+C:\test\Utilities\BurgerBackend.Common\obj\Debug\net6.0\ref\BurgerBackend.Common.dll

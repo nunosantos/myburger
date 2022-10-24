@@ -1,0 +1,507 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.API\\ResourceManagement.API.csproj": {}
+  },
+  "projects": {
+    "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.API\\ResourceManagement.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.API\\ResourceManagement.API.csproj",
+        "projectName": "ResourceManagement.API",
+        "projectPath": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.API\\ResourceManagement.API.csproj",
+        "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
+        "outputPath": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Application\\ResourceManagement.Application.csproj": {
+                "projectPath": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Application\\ResourceManagement.Application.csproj"
+              },
+              "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Domain\\ResourceManagement.Domain.csproj": {
+                "projectPath": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Domain\\ResourceManagement.Domain.csproj"
+              },
+              "C:\\test\\Services\\Restaurant\\src\\Restaurant.Application\\Restaurant.Application.csproj": {
+                "projectPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Application\\Restaurant.Application.csproj"
+              },
+              "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\Restaurant.Domain.csproj": {
+                "projectPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\Restaurant.Domain.csproj"
+              },
+              "C:\\test\\Services\\Restaurant\\src\\Restaurant.Infrastructure\\Restaurant.Infrastructure.csproj": {
+                "projectPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Infrastructure\\Restaurant.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.14.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Application\\ResourceManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Application\\ResourceManagement.Application.csproj",
+        "projectName": "ResourceManagement.Application",
+        "projectPath": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Application\\ResourceManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
+        "outputPath": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Domain\\ResourceManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Domain\\ResourceManagement.Domain.csproj",
+        "projectName": "ResourceManagement.Domain",
+        "projectPath": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Domain\\ResourceManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
+        "outputPath": "C:\\test\\Services\\ResourceManagement\\src\\ResourceManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\test\\Services\\Restaurant\\src\\Restaurant.Application\\Restaurant.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Application\\Restaurant.Application.csproj",
+        "projectName": "Restaurant.Application",
+        "projectPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Application\\Restaurant.Application.csproj",
+        "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
+        "outputPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\Restaurant.Domain.csproj": {
+                "projectPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\Restaurant.Domain.csproj"
+              },
+              "C:\\test\\Utilities\\BurgerBackend.Common\\BurgerBackend.Common.csproj": {
+                "projectPath": "C:\\test\\Utilities\\BurgerBackend.Common\\BurgerBackend.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\Restaurant.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\Restaurant.Domain.csproj",
+        "projectName": "Restaurant.Domain",
+        "projectPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\Restaurant.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
+        "outputPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\test\\Services\\Restaurant\\src\\Restaurant.Infrastructure\\Restaurant.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Infrastructure\\Restaurant.Infrastructure.csproj",
+        "projectName": "Restaurant.Infrastructure",
+        "projectPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Infrastructure\\Restaurant.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
+        "outputPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\test\\Services\\Restaurant\\src\\Restaurant.Application\\Restaurant.Application.csproj": {
+                "projectPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Application\\Restaurant.Application.csproj"
+              },
+              "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\Restaurant.Domain.csproj": {
+                "projectPath": "C:\\test\\Services\\Restaurant\\src\\Restaurant.Domain\\Restaurant.Domain.csproj"
+              },
+              "C:\\test\\Utilities\\BurgerBackend.Common\\BurgerBackend.Common.csproj": {
+                "projectPath": "C:\\test\\Utilities\\BurgerBackend.Common\\BurgerBackend.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\test\\Utilities\\BurgerBackend.Common\\BurgerBackend.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\test\\Utilities\\BurgerBackend.Common\\BurgerBackend.Common.csproj",
+        "projectName": "BurgerBackend.Common",
+        "projectPath": "C:\\test\\Utilities\\BurgerBackend.Common\\BurgerBackend.Common.csproj",
+        "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
+        "outputPath": "C:\\test\\Utilities\\BurgerBackend.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

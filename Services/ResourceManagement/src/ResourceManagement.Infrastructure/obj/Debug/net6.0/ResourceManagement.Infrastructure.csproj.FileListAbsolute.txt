@@ -1,0 +1,12 @@
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\bin\Debug\net6.0\ResourceManagement.Infrastructure.deps.json
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\bin\Debug\net6.0\ResourceManagement.Infrastructure.dll
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\bin\Debug\net6.0\ResourceManagement.Infrastructure.pdb
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\obj\Debug\net6.0\ResourceManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\obj\Debug\net6.0\ResourceManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\obj\Debug\net6.0\ResourceManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\obj\Debug\net6.0\ResourceManagement.Infrastructure.AssemblyInfo.cs
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\obj\Debug\net6.0\ResourceManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\obj\Debug\net6.0\ResourceManagement.Infrastructure.dll
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\obj\Debug\net6.0\refint\ResourceManagement.Infrastructure.dll
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\obj\Debug\net6.0\ResourceManagement.Infrastructure.pdb
+C:\test\Services\ResourceManagement\src\ResourceManagement.Infrastructure\obj\Debug\net6.0\ref\ResourceManagement.Infrastructure.dll

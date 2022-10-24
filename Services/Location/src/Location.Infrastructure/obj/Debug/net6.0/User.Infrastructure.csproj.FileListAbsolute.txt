@@ -1,0 +1,12 @@
+C:\test\Services\Location\src\Location.Infrastructure\bin\Debug\net6.0\User.Infrastructure.deps.json
+C:\test\Services\Location\src\Location.Infrastructure\bin\Debug\net6.0\User.Infrastructure.dll
+C:\test\Services\Location\src\Location.Infrastructure\bin\Debug\net6.0\User.Infrastructure.pdb
+C:\test\Services\Location\src\Location.Infrastructure\obj\Debug\net6.0\User.Infrastructure.csproj.AssemblyReference.cache
+C:\test\Services\Location\src\Location.Infrastructure\obj\Debug\net6.0\User.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Services\Location\src\Location.Infrastructure\obj\Debug\net6.0\User.Infrastructure.AssemblyInfoInputs.cache
+C:\test\Services\Location\src\Location.Infrastructure\obj\Debug\net6.0\User.Infrastructure.AssemblyInfo.cs
+C:\test\Services\Location\src\Location.Infrastructure\obj\Debug\net6.0\User.Infrastructure.csproj.CoreCompileInputs.cache
+C:\test\Services\Location\src\Location.Infrastructure\obj\Debug\net6.0\User.Infrastructure.dll
+C:\test\Services\Location\src\Location.Infrastructure\obj\Debug\net6.0\refint\User.Infrastructure.dll
+C:\test\Services\Location\src\Location.Infrastructure\obj\Debug\net6.0\User.Infrastructure.pdb
+C:\test\Services\Location\src\Location.Infrastructure\obj\Debug\net6.0\ref\User.Infrastructure.dll

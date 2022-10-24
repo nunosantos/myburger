@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kzSUi2tP6TedaXPaPcrYuyi1zFJSvdgnHFhHqoJ1TJ0=",
+  "Source": "BurgerBackend.Aggregator",
+  "BasePath": "_content/BurgerBackend.Aggregator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

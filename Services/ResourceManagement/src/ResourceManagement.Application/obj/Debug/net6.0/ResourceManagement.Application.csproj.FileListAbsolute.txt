@@ -1,0 +1,12 @@
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\bin\Debug\net6.0\ResourceManagement.Application.deps.json
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\bin\Debug\net6.0\ResourceManagement.Application.dll
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\bin\Debug\net6.0\ResourceManagement.Application.pdb
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\obj\Debug\net6.0\ResourceManagement.Application.csproj.AssemblyReference.cache
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\obj\Debug\net6.0\ResourceManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\obj\Debug\net6.0\ResourceManagement.Application.AssemblyInfoInputs.cache
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\obj\Debug\net6.0\ResourceManagement.Application.AssemblyInfo.cs
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\obj\Debug\net6.0\ResourceManagement.Application.csproj.CoreCompileInputs.cache
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\obj\Debug\net6.0\ResourceManagement.Application.dll
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\obj\Debug\net6.0\refint\ResourceManagement.Application.dll
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\obj\Debug\net6.0\ResourceManagement.Application.pdb
+C:\test\Services\ResourceManagement\src\ResourceManagement.Application\obj\Debug\net6.0\ref\ResourceManagement.Application.dll

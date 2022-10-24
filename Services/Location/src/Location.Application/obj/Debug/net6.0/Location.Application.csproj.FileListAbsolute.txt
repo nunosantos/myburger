@@ -1,0 +1,12 @@
+C:\test\Services\Location\src\Location.Application\bin\Debug\net6.0\Location.Application.deps.json
+C:\test\Services\Location\src\Location.Application\bin\Debug\net6.0\Location.Application.dll
+C:\test\Services\Location\src\Location.Application\bin\Debug\net6.0\Location.Application.pdb
+C:\test\Services\Location\src\Location.Application\obj\Debug\net6.0\Location.Application.csproj.AssemblyReference.cache
+C:\test\Services\Location\src\Location.Application\obj\Debug\net6.0\Location.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Services\Location\src\Location.Application\obj\Debug\net6.0\Location.Application.AssemblyInfoInputs.cache
+C:\test\Services\Location\src\Location.Application\obj\Debug\net6.0\Location.Application.AssemblyInfo.cs
+C:\test\Services\Location\src\Location.Application\obj\Debug\net6.0\Location.Application.csproj.CoreCompileInputs.cache
+C:\test\Services\Location\src\Location.Application\obj\Debug\net6.0\Location.Application.dll
+C:\test\Services\Location\src\Location.Application\obj\Debug\net6.0\refint\Location.Application.dll
+C:\test\Services\Location\src\Location.Application\obj\Debug\net6.0\Location.Application.pdb
+C:\test\Services\Location\src\Location.Application\obj\Debug\net6.0\ref\Location.Application.dll
